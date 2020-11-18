@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love cars and my first car was a 1965 Chevrolet Corvair**
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
