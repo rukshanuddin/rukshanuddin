@@ -26,7 +26,6 @@
 - [Hoisting](https://dev.to/rukshanuddin/hoisting-541e)
 - [Go, fetch()](https://dev.to/rukshanuddin/go-fetch-35la)
 - [Rails Generators](https://dev.to/rukshanuddin/rails-generators-4g4b)
-- [Building my first CLI program](https://medium.com/@rukshan.uddin/building-my-first-cli-program-cb4c952189d5?source=rss-3f5423d5dda7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
