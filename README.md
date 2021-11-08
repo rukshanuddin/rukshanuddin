@@ -23,7 +23,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Sinatra Tips & Tricks!](https://rukshanuddin.medium.com/sinatra-tips-tricks-66da2b4dad25?source=rss-3f5423d5dda7------2)
+- [Sinatra Tips &amp; Tricks!](https://rukshanuddin.medium.com/sinatra-tips-tricks-66da2b4dad25?source=rss-3f5423d5dda7------2)
 - [Rails Generators](https://rukshanuddin.medium.com/rails-generators-1f8bfc36a499?source=rss-3f5423d5dda7------2)
 - [Hoisting in JS](https://rukshanuddin.medium.com/hoisting-in-js-646d7721721a?source=rss-3f5423d5dda7------2)
 - [Equals vs Threequals in JS](https://rukshanuddin.medium.com/equals-vs-threequals-in-js-e7de20a0cca4?source=rss-3f5423d5dda7------2)
